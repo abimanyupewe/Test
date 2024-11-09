@@ -698,6 +698,10 @@ video {
   width: 100%;
 }
 
+.w-64 {
+  width: 16rem;
+}
+
 .max-w-\[250px\] {
   max-width: 250px;
 }
@@ -1238,6 +1242,10 @@ video {
 
   .md\:w-full {
     width: 100%;
+  }
+
+  .md\:w-9 {
+    width: 2.25rem;
   }
 
   .md\:flex-row {
